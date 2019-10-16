@@ -17,7 +17,7 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'myfnst'
         GITHUB_ACCOUNT = 'astute-tec'
         APP_NAME = 'devops-java-sample-1'
-        SONAR_CREDENTIAL_ID= 'sonar-token'
+        SONAR_CREDENTIAL_ID= '72ba2768c6abbc3cfa862043429882cc7cd35d82'
     }
 
     stages {
